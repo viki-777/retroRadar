@@ -1,0 +1,47 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration files
+local.properties
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Log files
+*.log
+
+# Android Generated Files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APKs
+*.apk
+*.ap_
+
+# Dex files
+*.dex
+
+# Java/Android
+*.class
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Keystore (important — don't upload your signing key)
+*.jks
+*.keystore
